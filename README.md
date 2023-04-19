@@ -32,3 +32,4 @@ Do you have questions? Do not worry, we have prepared a complete [FAQ](https://g
 
 Some of the best ways to [contribute](./.github/CONTRIBUTING.md) are to try things out, file issues, join in design conversations,
 and make pull-requests. Proposals for changes specific to MAUI can be found [here for discussion](https://github.com/dotnet/maui/issues).
+![maui-weather-hero-sm](https://user-images.githubusercontent.com/97979235/232986970-86717c27-c56f-4024-baf8-199e15e5ff2d.png)
